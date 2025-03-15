@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 041f779e98daba54cab6b71f6684c7b7, type: 3}
+  m_Name: LevelHexStack - 1
+  m_EditorClassIdentifier: 
+  waveHexStacks:
+  - hexStackDatas:
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+  - hexStackDatas:
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 6c8fb9f7708169341bb793de92fe4b5d,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 13f0e48ecc1d49d40a9ca8a3ee5f66f5,
+          type: 2}
+    - hexStackObjects:
+      - allySoldierData: {fileID: 11400000, guid: 2d60f93f54fa1b94ea61db7306773ddd,
+          type: 2}
+  - hexStackDatas: []
+  - hexStackDatas: []
+  - hexStackDatas: []
+  - hexStackDatas: []

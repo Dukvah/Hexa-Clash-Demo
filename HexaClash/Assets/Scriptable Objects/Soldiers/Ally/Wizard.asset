@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6ba101e829c3c4b9ccfcb2f575646c, type: 3}
+  m_Name: Wizard
+  m_EditorClassIdentifier: 
+  soldierName: Wizard
+  level: 1
+  soldierRarity: 0
+  soldierType: 1
+  menuSprite: {fileID: 21300000, guid: 15cbba7f940384094817ed6f0fcc6d56, type: 3}
+  hexagonMaterial: {fileID: 2100000, guid: 23b669c7d90d86c4882db451497342ea, type: 2}
+  starterPack: 0
+  attackDamage: 4
+  healthPoint: 7
+  attackSpeed: 1.2

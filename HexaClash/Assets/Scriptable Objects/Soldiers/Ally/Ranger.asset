@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6ba101e829c3c4b9ccfcb2f575646c, type: 3}
+  m_Name: Ranger
+  m_EditorClassIdentifier: 
+  soldierName: Ranger
+  level: 1
+  soldierRarity: 0
+  soldierType: 3
+  menuSprite: {fileID: 21300000, guid: 47c4e2630148b4ac79117b73e3f4dc9f, type: 3}
+  hexagonMaterial: {fileID: 2100000, guid: 4edd789c6791e4149b08381a8e82d917, type: 2}
+  starterPack: 1
+  attackDamage: 5.5
+  healthPoint: 12
+  attackSpeed: 1.2

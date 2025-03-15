@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 038e4c3d0d08f5d4187610de8da9168b, type: 3}
+  m_Name: Level-1
+  m_EditorClassIdentifier: 
+  levelPrefab: {fileID: 1878275770705801805, guid: d912c2b5febf0e94da9dd6eaff4edb13,
+    type: 3}
+  levelNumber: 1
+  levelName: Pleasant Valley
+  levelIcon: {fileID: 21300000, guid: 46994092b1dd44d8990a33a1623b9832, type: 3}
